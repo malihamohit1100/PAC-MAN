@@ -13,7 +13,6 @@ body {
 h3 {
    color: rgb(4, 6, 84);
    text-transform: uppercase;
-   
    border: 10px solid rgb(4, 6, 84);
    padding: 4vmin;
    margin-top: -400px;
@@ -65,5 +64,14 @@ h3 {
 }
 
 .clyde {
-    background-color: chocolate
+    background-color: chocolate;
+}
+
+.pac-man {
+    background-color: black;
+    border-radius: 10px;
+}
+
+.scared-ghost {
+    background-color: black;
 }
