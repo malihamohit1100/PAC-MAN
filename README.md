@@ -3,6 +3,13 @@
  ![pac-man](https://github.com/user-attachments/assets/b1fb5269-e9bc-4772-97b1-bddb4aacb1ca)
 
 <br/>
+
+<h2>Table of Contents</h2>
+● Overview<br/>
+● Video Demo<br/>
+● Technologies<br/>
+● Code<br/>
+
 <h2>Overview</h2>
 This project is a modern rendition of the iconic 1980 arcade game, Pac-Man, which has amassed over $14 billion in revenue. I developed it in visual studio using javascript, this endeavor is part of my minigames series. I leverage various resources to recreate simple games, enhancing my learning and enjoyment.
 
